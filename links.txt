@@ -1,0 +1,44 @@
+https://www.csoonline.com/article/3519908/the-cia-triad-definition-components-and-examples.html
+
+https://en.wikipedia.org/wiki/Non-repudiation
+
+https://www.manageengine.com/application-control/principle-of-least-privilege.html
+
+https://security.berkeley.edu/need-know-access-control-guideline
+
+https://en.wikipedia.org/wiki/Defense_in_depth_(computing)
+
+https://www.tecmint.com/linux-directory-structure-and-important-files-paths-explained/
+
+https://www.geeksforgeeks.org/layers-of-osi-model/
+
+https://www.geeksforgeeks.org/tcp-ip-model/
+
+https://www.geeksforgeeks.org/tcp-3-way-handshake-process/
+
+https://medium.com/searchencrypt/what-is-encryption-how-does-it-work-e8f20e340537#:~:text=Encryption%20is%20a%20process%20that,%2C%20or%20decrypt%2C%20the%20information.
+
+https://hackernoon.com/cryptographic-hashing-c25da23609c3#:~:text=Hashing%20is%20a%20method%20of,is%20always%20the%20same%20length.
+
+https://us.norton.com/internetsecurity-malware-what-is-antivirus.html
+
+https://www.compuquip.com/blog/the-different-types-of-firewall-architectures
+
+
+
+Later:
+Command Line Basics
+https://www.udacity.com/course/linux-command-line-basics--ud595
+
+Programming fundamentals for at least one language:
+Python (preferred)
+C/C++
+Ruby
+Java
+
+Windows CMD basics
+Programming fundamentals
+SQL
+PHP
+Perl
+JavaScript
